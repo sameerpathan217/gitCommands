@@ -18,7 +18,7 @@ public class Login_Facebook {
 		 driver.findElement(By.xpath("//button[text()=\"Log in\"]")).click();
 		 
 		 System.out.println("Welcome to the git world");
-		 System.out.println("Hi IDE");
+		 System.out.println("Sameer Pathan: SDET Engineer");
 
 	}
 

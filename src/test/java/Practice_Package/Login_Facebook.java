@@ -16,6 +16,8 @@ public class Login_Facebook {
 		 driver.findElement(By.id("email")).sendKeys("9561621876");
 		 driver.findElement(By.id("pass")).sendKeys("9561621876");
 		 driver.findElement(By.xpath("//button[text()=\"Log in\"]")).click();
+		 
+		 System.out.println("Welcome to the git world");
 	}
 
 }

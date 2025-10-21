@@ -22,8 +22,8 @@ public class Login_Facebook {
 		System.out.println("Sameer Pathan: SDET Engineer");
 		System.out.println("PR Merge");
 		
-		System.out.println("Diwali learning");
 		
+		System.out.println("Diwali learning SDET");
 
 	}
 
